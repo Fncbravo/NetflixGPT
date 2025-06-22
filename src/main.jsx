@@ -7,6 +7,5 @@ import Men from './Men.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    <Men />
   </StrictMode>,
 )
