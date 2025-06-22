@@ -1,13 +1,11 @@
-
-import './App.css'
+import Body from './components/Body'
 
 function App() {
 
 
   return (
     <>
-      <h1 class="bg-red-700">Hellow world!! lets build netflixGPT</h1>
-      
+    <Body />    
     </>
   )
 }
