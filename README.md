@@ -3,8 +3,10 @@
  - Vite 
  - TailwindCSS
  - Header
+ - Routing of App
  - Login Form
  - Signup Form
+ - Form validation
 
 
 # Features
