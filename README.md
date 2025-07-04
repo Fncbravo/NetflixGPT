@@ -11,6 +11,10 @@
  - Firebase Setup
  - Deploying our app to production server
  - Create SignUp User account 
+ - Implement SignIn user api 
+ - Created Redux store with userSlice
+ - Implemented sign out
+ - Update profile
 
 
 # Features
@@ -27,3 +31,4 @@
 - NetflixGPT
    - Search Bar
    - Movie Suggestions"# NetflixGPT" 
+   
